@@ -10,6 +10,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
 }
 
 main {
@@ -80,4 +81,5 @@ li {
     main {
         width: 30%;
     }
+
 }
